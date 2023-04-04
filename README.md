@@ -1,4 +1,5 @@
-Real-time Recommendation System for Tourism Correspond Real-time Context-aware
+Real-Time Context-Aware Recommendation System for Tourism
+doi: https://doi.org/10.3390/s23073679
 
 Dataset used to Real-time Recommendation for Tourism(R2Tour for short). 
 electric vehicle information (EVGPS) provided by the Korea Electric Power Corporation Knowledge Data Network (KEPCO KDN)
